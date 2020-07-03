@@ -1,0 +1,546 @@
+Event,Start time,End time,Priority,Classification
+SSH connection attempt,06/12-03:01:06.029000,06/12-03:09:18.336868,0,unknown
+ICMP connection attempt,06/12-03:09:23.064895,06/12-03:09:23.067860,0,unknown
+SSH connection attempt,06/12-03:09:23.344259,06/12-03:11:38.098185,0,unknown
+FTP connection attempt,06/12-03:11:39.465884,06/12-03:11:39.890913,0,unknown
+SSH connection attempt,06/12-03:11:40.232542,06/12-03:15:28.084192,0,unknown
+ICMP connection attempt,06/12-03:31:11.761076,06/12-03:31:11.763204,0,unknown
+SSH connection attempt,06/12-03:40:11.338407,06/12-03:43:51.333543,0,unknown
+ICMP connection attempt,06/12-03:47:31.162700,06/12-03:48:06.875955,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-03:55:13.771022,06/12-03:56:08.750218,2,Attempted Denial of Service
+FTP connection attempt,06/12-03:56:10.177885,06/12-03:56:10.600744,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-03:56:13.753017,06/12-03:56:38.750084,2,Attempted Denial of Service
+FTP connection attempt,06/12-03:56:38.980344,06/12-03:56:38.985208,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-03:55:15.706140,06/12-03:55:16.573629,2,Attempted Denial of Service
+FTP connection attempt,06/12-03:56:41.977513,06/12-03:56:41.978390,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-03:55:17.521112,06/12-03:55:16.533391,2,Attempted Denial of Service
+FTP connection attempt,06/12-03:56:42.228378,06/12-03:56:42.279979,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-03:55:15.565121,06/12-03:55:16.129519,2,Attempted Denial of Service
+FTP connection attempt,06/12-04:12:43.916553,06/12-04:13:40.155981,0,unknown
+ICMP connection attempt,06/12-04:17:01.904541,06/12-04:17:01.908177,0,unknown
+MALWARE-CNC Win.Dropper.Agent ransomware downloader outbound connection detected,06/12-04:17:12.336951,06/12-04:17:12.336951,1,A Network Trojan was Detected
+FTP connection attempt,06/12-04:20:53.413089,06/12-04:20:53.865017,0,unknown
+MALWARE-CNC Win.Dropper.Agent ransomware downloader outbound connection detected,06/12-04:52:13.442657,06/12-04:52:13.442657,1,A Network Trojan was Detected
+MALWARE-TOOLS slowhttptest DoS tool,06/12-03:55:17.561405,06/12-03:55:17.561405,2,Attempted Denial of Service
+FTP connection attempt,06/12-04:56:38.834511,06/12-04:56:42.142658,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-03:55:16.472764,06/12-05:04:16.488639,2,Attempted Denial of Service
+FTP connection attempt,06/12-05:04:43.730541,06/12-05:04:43.734800,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-05:03:51.488803,06/12-05:04:46.488683,2,Attempted Denial of Service
+FTP connection attempt,06/12-05:04:46.729494,06/12-05:04:47.030041,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-05:04:21.488663,06/12-05:05:31.488861,2,Attempted Denial of Service
+FTP connection attempt,06/12-05:11:39.150834,06/12-05:33:52.106734,0,unknown
+SSH connection attempt,06/12-05:40:09.843844,06/12-05:40:09.843844,0,unknown
+FTP connection attempt,06/12-05:40:47.208064,06/12-05:40:47.632747,0,unknown
+SSH connection attempt,06/12-05:43:49.839087,06/12-05:43:49.839087,0,unknown
+FTP connection attempt,06/12-05:56:38.700855,06/12-05:56:42.004379,0,unknown
+ICMP connection attempt,06/12-06:00:19.462740,06/12-06:00:19.462740,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-06:00:49.446220,06/12-06:01:01.331908,2,Attempted Denial of Service
+FTP connection attempt,06/12-06:02:35.745404,06/12-06:02:36.177313,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-06:03:16.115763,06/12-06:07:18.711016,2,Attempted Denial of Service
+ICMP connection attempt,06/12-06:09:21.251891,06/12-06:10:38.781427,0,unknown
+FTP connection attempt,06/12-06:13:39.427241,06/12-06:13:39.855940,0,unknown
+ICMP connection attempt,06/12-06:17:18.877258,06/12-06:18:36.994739,0,unknown
+FTP connection attempt,06/12-06:20:50.542298,06/12-06:28:37.990070,0,unknown
+ICMP connection attempt,06/12-06:28:43.043086,06/12-06:28:49.060043,0,unknown
+FTP connection attempt,06/12-06:33:51.512584,06/12-06:33:51.944242,0,unknown
+ICMP connection attempt,06/12-06:38:28.240351,06/12-06:38:28.461703,0,unknown
+FTP connection attempt,06/12-06:40:47.086183,06/12-07:11:46.670812,0,unknown
+ICMP connection attempt,06/12-07:12:01.268150,06/12-07:12:38.770165,0,unknown
+FTP connection attempt,06/12-07:12:46.554079,06/12-07:23:34.104604,0,unknown
+ICMP connection attempt,06/12-07:27:31.039881,06/12-07:27:31.047395,0,unknown
+FTP connection attempt,06/12-07:27:31.060842,06/12-07:27:31.060842,0,unknown
+ICMP connection attempt,06/12-07:27:31.366137,06/12-07:27:31.366137,0,unknown
+FTP connection attempt,06/12-07:27:34.061340,06/12-07:33:51.786753,0,unknown
+ICMP connection attempt,06/12-07:37:22.684840,06/12-07:37:50.620222,0,unknown
+SSH connection attempt,06/12-07:40:08.347049,06/12-07:40:08.347049,0,unknown
+FTP connection attempt,06/12-07:40:46.967873,06/12-07:40:50.275283,0,unknown
+SSH connection attempt,06/12-07:43:48.362662,06/12-07:43:48.362662,0,unknown
+ICMP connection attempt,06/12-07:47:30.977767,06/12-07:47:31.314463,0,unknown
+FTP connection attempt,06/12-07:56:38.498502,06/12-07:56:38.917942,0,unknown
+ICMP connection attempt,06/12-08:13:12.607544,06/12-08:13:12.609585,0,unknown
+FTP connection attempt,06/12-08:13:39.158579,06/12-08:20:53.665675,0,unknown
+ICMP connection attempt,06/12-08:22:29.594522,06/12-08:22:29.602010,0,unknown
+FTP connection attempt,06/12-08:22:29.612589,06/12-08:22:29.612589,0,unknown
+ICMP connection attempt,06/12-08:22:29.752998,06/12-08:22:29.752998,0,unknown
+FTP connection attempt,06/12-08:22:32.614242,06/12-08:22:39.534256,0,unknown
+ICMP connection attempt,06/12-08:22:59.216358,06/12-08:23:21.512975,0,unknown
+FTP connection attempt,06/12-08:28:37.188050,06/12-08:40:47.279722,0,unknown
+ICMP connection attempt,06/12-08:45:47.748717,06/12-08:51:50.844794,0,unknown
+MALWARE-CNC Win.Dropper.Agent ransomware downloader outbound connection detected,06/12-08:52:16.892777,06/12-08:52:16.892777,1,A Network Trojan was Detected
+ICMP connection attempt,06/12-08:53:52.025293,06/12-08:53:52.025293,0,unknown
+FTP connection attempt,06/12-08:56:38.371769,06/12-09:02:38.872625,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-09:03:49.446220,06/12-09:10:18.711016,2,Attempted Denial of Service
+FTP connection attempt,06/12-09:11:38.958196,06/12-09:11:42.272633,0,unknown
+ICMP connection attempt,06/12-09:11:55.486470,06/12-09:16:01.358363,0,unknown
+FTP connection attempt,06/12-09:20:48.052146,06/12-09:23:36.601556,0,unknown
+ICMP connection attempt,06/12-09:26:24.062788,06/12-09:26:51.045291,0,unknown
+FTP connection attempt,06/12-09:28:36.985336,06/12-09:28:37.412754,0,unknown
+ICMP connection attempt,06/12-09:28:52.536230,06/12-09:31:33.267303,0,unknown
+FTP connection attempt,06/12-09:33:51.068052,06/12-09:33:51.501327,0,unknown
+ICMP connection attempt,06/12-09:35:09.031777,06/12-09:36:57.739008,0,unknown
+SSH connection attempt,06/12-09:40:07.192323,06/12-09:40:07.192323,0,unknown
+FTP connection attempt,06/12-09:40:52.535446,06/12-09:40:53.122659,0,unknown
+SSH connection attempt,06/12-09:43:46.865375,06/12-09:43:46.865375,0,unknown
+FTP connection attempt,06/12-09:55:34.523928,06/12-10:01:14.273916,0,unknown
+ICMP connection attempt,06/12-10:02:59.600992,06/12-10:02:59.600992,0,unknown
+FTP connection attempt,06/12-10:04:39.852040,06/12-10:33:51.339063,0,unknown
+ICMP connection attempt,06/12-10:35:34.607516,06/12-10:35:34.608965,0,unknown
+FTP connection attempt,06/12-10:40:46.739764,06/12-10:40:47.175958,0,unknown
+ICMP connection attempt,06/12-10:41:08.226411,06/12-10:45:05.720225,0,unknown
+FTP connection attempt,06/12-10:55:34.544588,06/12-10:56:38.576037,0,unknown
+ICMP connection attempt,06/12-11:08:27.105240,06/12-11:08:54.639449,0,unknown
+FTP connection attempt,06/12-11:11:41.853804,06/12-11:11:45.170135,0,unknown
+ICMP connection attempt,06/12-11:12:25.517938,06/12-11:12:56.248348,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-11:15:13.771022,06/12-11:15:16.129519,2,Attempted Denial of Service
+FTP connection attempt,06/12-11:20:40.258769,06/12-11:20:40.751347,0,unknown
+ICMP connection attempt,06/12-11:22:57.329368,06/12-11:23:03.759017,0,unknown
+FTP connection attempt,06/12-11:23:32.886607,06/12-11:33:51.177935,0,unknown
+ICMP connection attempt,06/12-11:34:09.244138,06/12-11:34:09.245905,0,unknown
+SSH connection attempt,06/12-11:40:05.700060,06/12-11:40:05.700060,0,unknown
+FTP connection attempt,06/12-11:40:46.569129,06/12-11:40:46.988049,0,unknown
+SSH connection attempt,06/12-11:43:45.374124,06/12-11:43:45.374124,0,unknown
+FTP connection attempt,06/12-11:54:46.184574,06/12-11:56:38.461032,0,unknown
+ICMP connection attempt,06/12-12:01:50.830026,06/12-12:01:50.831832,0,unknown
+FTP connection attempt,06/12-12:02:34.614100,06/12-12:04:40.644613,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-12:05:13.771022,06/12-12:11:15.363636,2,Attempted Denial of Service
+FTP connection attempt,06/12-12:13:41.861466,06/12-12:13:42.335983,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-12:11:15.726213,06/12-11:15:18.710728,2,Attempted Denial of Service
+FTP connection attempt,06/12-12:20:50.046301,06/12-12:20:53.349930,0,unknown
+ICMP connection attempt,06/12-12:28:35.546965,06/12-12:28:35.553171,0,unknown
+FTP connection attempt,06/12-12:28:36.414676,06/12-13:01:45.559792,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-12:05:17.561405,06/12-12:05:18.710728,2,Attempted Denial of Service
+FTP connection attempt,06/12-13:11:38.250201,06/12-13:11:41.551130,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-12:11:17.561405,06/12-12:11:17.561405,2,Attempted Denial of Service
+FTP connection attempt,06/12-13:12:42.567821,06/12-13:12:42.981236,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-12:11:16.472764,06/12-12:11:18.710728,2,Attempted Denial of Service
+FTP connection attempt,06/12-13:20:35.900592,06/12-13:23:32.905999,0,unknown
+ICMP connection attempt,06/12-13:23:42.819941,06/12-13:23:42.821547,0,unknown
+FTP connection attempt,06/12-13:28:36.234961,06/12-13:34:45.317755,0,unknown
+SSH connection attempt,06/12-13:40:04.210365,06/12-13:40:04.210365,0,unknown
+FTP connection attempt,06/12-13:40:46.348608,06/12-13:40:46.776742,0,unknown
+SSH connection attempt,06/12-13:43:43.891858,06/12-13:43:43.891858,0,unknown
+FTP connection attempt,06/12-13:54:49.461200,06/12-13:54:49.899312,0,unknown
+ICMP connection attempt,06/12-13:55:17.882341,06/12-13:55:17.889117,0,unknown
+FTP connection attempt,06/12-13:55:37.705181,06/12-13:56:38.231588,0,unknown
+MALWARE-CNC Win.Dropper.Agent ransomware downloader outbound connection detected,06/12-13:56:54.901071,06/12-13:56:54.901071,1,A Network Trojan was Detected
+MALWARE-TOOLS slowhttptest DoS tool,06/12-14:03:36.508011,06/12-14:03:45.734657,2,Attempted Denial of Service
+FTP connection attempt,06/12-14:04:39.883863,06/12-14:04:40.294704,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-14:08:36.488705,06/12-14:09:31.488861,2,Attempted Denial of Service
+FTP connection attempt,06/12-14:13:52.498063,06/12-14:20:53.187858,0,unknown
+ICMP connection attempt,06/12-14:24:33.429561,06/12-14:24:33.429869,0,unknown
+FTP connection attempt,06/12-14:26:29.466063,06/12-14:28:36.449518,0,unknown
+ICMP connection attempt,06/12-14:30:11.219174,06/12-14:30:11.650738,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-14:30:49.446220,06/12-14:33:46.101178,2,Attempted Denial of Service
+FTP connection attempt,06/12-14:33:50.323411,06/12-14:33:50.733710,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-14:33:51.098530,06/12-14:34:27.703225,2,Attempted Denial of Service
+SSH connection attempt,06/12-14:34:31.842507,06/12-14:34:31.955061,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-14:34:12.467906,06/12-14:37:18.711016,2,Attempted Denial of Service
+FTP connection attempt,06/12-14:40:46.264827,06/12-14:40:49.563242,0,unknown
+SSH connection attempt,06/12-14:41:20.904287,06/12-14:43:13.506390,0,unknown
+ICMP connection attempt,06/12-14:50:11.173206,06/12-14:50:11.618896,0,unknown
+FTP connection attempt,06/12-14:54:51.255125,06/12-15:02:34.508756,0,unknown
+ICMP connection attempt,06/12-15:03:16.415501,06/12-15:03:27.425500,0,unknown
+FTP connection attempt,06/12-15:04:39.002369,06/12-15:11:41.242762,0,unknown
+ICMP connection attempt,06/12-15:16:11.554137,06/12-15:16:11.577185,0,unknown
+FTP connection attempt,06/12-15:20:35.520974,06/12-15:28:42.578138,0,unknown
+ICMP connection attempt,06/12-15:31:27.282570,06/12-15:31:27.285448,0,unknown
+FTP connection attempt,06/12-15:33:50.198209,06/12-15:33:50.610212,0,unknown
+ICMP connection attempt,06/12-15:36:11.505498,06/12-15:36:47.750518,0,unknown
+SSH connection attempt,06/12-15:40:02.726011,06/12-15:40:02.726011,0,unknown
+FTP connection attempt,06/12-15:40:46.152388,06/12-15:40:49.459798,0,unknown
+SSH connection attempt,06/12-15:43:42.407020,06/12-15:43:42.407020,0,unknown
+ICMP connection attempt,06/12-15:45:30.319556,06/12-15:51:03.395118,0,unknown
+FTP connection attempt,06/12-15:54:48.855028,06/12-16:04:40.016946,0,unknown
+ICMP connection attempt,06/12-16:05:21.378007,06/12-16:05:40.379083,0,unknown
+FTP connection attempt,06/12-16:13:03.927641,06/12-16:33:53.885972,0,unknown
+ICMP connection attempt,06/12-16:36:30.999248,06/12-16:37:06.712394,0,unknown
+FTP connection attempt,06/12-16:40:46.047033,06/12-16:40:49.345948,0,unknown
+ICMP connection attempt,06/12-16:45:48.664136,06/12-16:45:48.665989,0,unknown
+FTP connection attempt,06/12-16:54:45.553760,06/12-17:28:39.207488,0,unknown
+ICMP connection attempt,06/12-17:31:25.741801,06/12-17:31:25.745833,0,unknown
+FTP connection attempt,06/12-17:33:52.988643,06/12-17:33:53.402103,0,unknown
+ICMP connection attempt,06/12-17:38:29.931210,06/12-17:39:54.854144,0,unknown
+SSH connection attempt,06/12-17:40:01.245601,06/12-17:40:01.245601,0,unknown
+FTP connection attempt,06/12-17:40:45.930007,06/12-17:40:46.353104,0,unknown
+SSH connection attempt,06/12-17:43:40.919996,06/12-17:43:40.919996,0,unknown
+ICMP connection attempt,06/12-17:45:56.979539,06/12-17:46:08.589683,0,unknown
+FTP connection attempt,06/12-17:54:45.424273,06/12-18:13:38.148871,0,unknown
+ICMP connection attempt,06/12-18:18:31.354437,06/12-18:18:31.787115,0,unknown
+FTP connection attempt,06/12-18:20:49.736182,06/12-18:34:47.771246,0,unknown
+ICMP connection attempt,06/12-18:38:31.310046,06/12-18:38:31.755487,0,unknown
+FTP connection attempt,06/12-18:40:45.851753,06/12-18:45:48.049297,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-18:50:49.446220,06/12-18:51:01.331908,2,Attempted Denial of Service
+ICMP connection attempt,06/12-18:53:08.544389,06/12-18:53:08.548614,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-18:53:16.115763,06/12-18:54:42.452710,2,Attempted Denial of Service
+FTP connection attempt,06/12-18:54:45.296382,06/12-18:54:45.711085,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-18:54:47.451282,06/12-18:55:26.119171,2,Attempted Denial of Service
+FTP connection attempt,06/12-18:55:30.684865,06/12-18:55:31.110496,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-18:55:31.117012,06/12-18:56:35.256091,2,Attempted Denial of Service
+FTP connection attempt,06/12-18:56:37.265960,06/12-18:56:37.711962,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-18:56:13.292269,06/12-18:57:18.711016,2,Attempted Denial of Service
+SSH connection attempt,06/12-18:58:05.720990,06/12-18:59:27.644265,0,unknown
+FTP connection attempt,06/12-19:01:44.147223,06/12-19:01:44.668868,0,unknown
+ICMP connection attempt,06/12-19:05:31.887622,06/12-19:05:31.887622,0,unknown
+FTP connection attempt,06/12-19:11:40.624602,06/12-19:20:35.139244,0,unknown
+MALWARE-CNC Win.Dropper.Agent ransomware downloader outbound connection detected,06/12-19:23:12.686620,06/12-19:23:12.686620,1,A Network Trojan was Detected
+FTP connection attempt,06/12-19:23:31.345342,06/12-19:23:31.763844,0,unknown
+SSH connection attempt,06/12-19:24:12.228639,06/12-19:28:39.473489,0,unknown
+FTP connection attempt,06/12-19:28:41.536783,06/12-19:28:41.989856,0,unknown
+SSH connection attempt,06/12-19:28:42.291074,06/12-19:33:50.890258,0,unknown
+FTP connection attempt,06/12-19:33:52.928151,06/12-19:33:53.345593,0,unknown
+SSH connection attempt,06/12-19:33:53.756684,06/12-19:40:44.877741,0,unknown
+FTP connection attempt,06/12-19:40:45.748281,06/12-19:40:46.166122,0,unknown
+SSH connection attempt,06/12-19:40:46.964652,06/12-19:54:01.220081,0,unknown
+ICMP connection attempt,06/12-19:54:03.183565,06/12-19:54:03.183565,0,unknown
+SSH connection attempt,06/12-19:54:03.574767,06/12-19:54:07.678466,0,unknown
+ICMP connection attempt,06/12-19:54:08.596448,06/12-19:54:08.600603,0,unknown
+SSH connection attempt,06/12-19:54:09.650375,06/12-19:54:38.424621,0,unknown
+ICMP connection attempt,06/12-19:54:38.898648,06/12-19:54:38.898776,0,unknown
+SSH connection attempt,06/12-19:54:39.197204,06/12-19:54:45.183116,0,unknown
+FTP connection attempt,06/12-19:54:45.192297,06/12-19:54:45.317561,0,unknown
+SSH connection attempt,06/12-19:54:45.361164,06/12-19:54:45.539634,0,unknown
+FTP connection attempt,06/12-19:54:45.561789,06/12-19:54:45.609432,0,unknown
+SSH connection attempt,06/12-19:54:45.758214,06/12-19:55:11.110163,0,unknown
+ICMP connection attempt,06/12-19:55:11.115023,06/12-19:55:11.117548,0,unknown
+SSH connection attempt,06/12-19:55:12.327024,06/12-19:55:30.475000,0,unknown
+FTP connection attempt,06/12-19:55:30.487249,06/12-19:55:30.612558,0,unknown
+SSH connection attempt,06/12-19:55:30.663497,06/12-19:55:30.870003,0,unknown
+FTP connection attempt,06/12-19:55:30.871912,06/12-19:55:30.927158,0,unknown
+SSH connection attempt,06/12-19:55:31.028250,06/12-19:56:35.783740,0,unknown
+FTP connection attempt,06/12-19:56:37.132051,06/12-19:56:37.257634,0,unknown
+SSH connection attempt,06/12-19:56:37.413641,06/12-19:56:37.414759,0,unknown
+FTP connection attempt,06/12-19:56:37.498412,06/12-19:56:37.558831,0,unknown
+SSH connection attempt,06/12-19:56:37.623542,06/12-20:04:38.083456,0,unknown
+FTP connection attempt,06/12-20:04:39.132831,06/12-20:04:39.524887,0,unknown
+SSH connection attempt,06/12-20:04:40.645681,06/12-20:04:41.252809,0,unknown
+FTP connection attempt,06/12-20:04:41.516413,06/12-20:04:41.536470,0,unknown
+SSH connection attempt,06/12-20:04:43.599208,06/12-20:04:44.498473,0,unknown
+FTP connection attempt,06/12-20:04:44.536726,06/12-20:04:44.537798,0,unknown
+SSH connection attempt,06/12-20:04:44.713607,06/12-20:04:44.713607,0,unknown
+FTP connection attempt,06/12-20:04:44.787685,06/12-20:04:44.837056,0,unknown
+SSH connection attempt,06/12-20:04:45.314064,06/12-20:13:37.304649,0,unknown
+FTP connection attempt,06/12-20:13:37.439987,06/12-20:13:37.440594,0,unknown
+SSH connection attempt,06/12-20:13:37.458347,06/12-20:13:37.461804,0,unknown
+FTP connection attempt,06/12-20:13:37.564777,06/12-20:13:37.565651,0,unknown
+SSH connection attempt,06/12-20:13:37.629820,06/12-20:13:37.629820,0,unknown
+FTP connection attempt,06/12-20:13:37.807778,06/12-20:13:37.862449,0,unknown
+SSH connection attempt,06/12-20:13:38.135463,06/12-20:16:47.699202,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:16:49.446220,06/12-20:16:49.446220,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:16:52.071993,06/12-20:16:53.344608,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:16:54.485274,06/12-20:16:54.485274,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:16:55.062727,06/12-20:16:59.822876,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:17:00.085098,06/12-20:17:19.423617,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:17:20.018207,06/12-20:17:24.347645,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:17:24.422076,06/12-20:17:24.422076,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:17:24.796220,06/12-20:17:28.355713,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:17:29.421358,06/12-20:16:54.485385,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:17:32.719871,06/12-20:17:32.943103,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:16:54.525517,06/12-20:16:54.525577,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:17:33.144854,06/12-20:17:33.144854,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:16:54.505444,06/12-20:16:54.505444,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:17:33.358716,06/12-20:17:33.958003,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:16:55.492811,06/12-20:16:54.545823,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:17:34.125493,06/12-20:17:34.125493,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:16:55.472974,06/12-20:16:56.700736,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:17:36.133597,06/12-20:17:36.137703,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:16:56.820659,06/12-20:16:56.056897,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:17:36.299047,06/12-20:17:36.877326,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:17:01.211870,06/12-20:17:01.315882,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:17:37.550384,06/12-20:17:38.104315,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:17:01.331908,06/12-20:17:01.331908,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:17:41.003101,06/12-20:19:14.816151,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:16.115763,06/12-20:19:16.115763,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:19:16.699452,06/12-20:19:21.207862,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:21.207928,06/12-20:19:21.207928,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:19:23.977940,06/12-20:19:24.157694,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:26.171645,06/12-20:19:26.171645,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:19:26.557588,06/12-20:19:30.749952,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:31.345079,06/12-20:19:31.345079,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:19:32.007657,06/12-20:19:35.224806,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:16.305443,06/12-20:19:16.115840,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:19:37.511301,06/12-20:19:38.039919,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:16.545811,06/12-20:19:16.533160,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:19:38.734177,06/12-20:19:38.734177,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:16.596553,06/12-20:19:16.558453,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:19:39.428709,06/12-20:19:39.807853,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:16.672402,06/12-20:19:16.609198,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:19:40.408867,06/12-20:19:40.408867,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:41.100094,06/12-20:19:17.241713,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:19:42.186583,06/12-20:19:42.186977,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:17.089957,06/12-20:19:17.279802,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:19:42.191678,06/12-20:19:42.191678,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:17.203756,06/12-20:19:17.140515,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:19:42.364879,06/12-20:19:42.546728,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:17.456903,06/12-20:19:17.558227,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:19:43.289509,06/12-20:19:43.289509,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:17.621457,06/12-20:19:17.583533,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:19:43.488364,06/12-20:19:44.041039,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:17.950394,06/12-20:19:17.861905,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:19:44.628857,06/12-20:19:44.628857,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:26.291141,06/12-20:19:46.101178,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:19:46.981849,06/12-20:19:48.977968,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:51.098530,06/12-20:19:51.098530,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:19:51.517922,06/12-20:19:55.657583,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:56.099645,06/12-20:19:56.099645,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:19:56.308282,06/12-20:19:56.670730,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:18.076954,06/12-20:19:21.255594,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:19:58.649977,06/12-20:19:58.824311,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:21.267610,06/12-20:19:21.267610,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:19:58.984191,06/12-20:19:58.984732,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:21.283471,06/12-20:19:21.283471,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:19:59.168036,06/12-20:19:59.860034,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:21.307567,06/12-20:19:21.319540,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:20:00.052957,06/12-20:20:00.632009,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:21.355520,06/12-20:19:25.587106,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:20:03.232874,06/12-20:20:03.407210,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:19:26.211152,06/12-20:19:26.251051,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:20:05.807563,06/12-20:20:12.300516,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:20:12.467811,06/12-20:20:12.467811,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:20:12.481629,06/12-20:20:16.866043,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:20:17.634572,06/12-20:20:17.634572,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:20:18.018376,06/12-20:20:27.426738,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:20:27.703225,06/12-20:20:27.703225,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:20:28.991388,06/12-20:20:33.639138,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:20:12.467906,06/12-20:20:13.708350,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:20:34.336938,06/12-20:20:34.336938,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:20:13.733860,06/12-20:20:13.898136,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:20:34.534554,06/12-20:20:34.534554,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:20:13.961469,06/12-20:20:13.923417,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:20:34.730230,06/12-20:20:35.066799,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:20:13.974091,06/12-20:20:13.999383,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:20:36.670299,06/12-20:20:37.096215,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:20:14.024601,06/12-20:20:14.024601,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:20:37.273883,06/12-20:20:37.274385,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:20:14.049905,06/12-20:20:37.452304,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:20:37.454946,06/12-20:20:38.218833,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:20:14.087819,06/12-20:20:14.062549,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:20:38.381904,06/12-20:20:38.381904,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:20:14.151001,06/12-20:20:14.328665,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:20:40.119240,06/12-20:20:41.543989,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:20:16.632385,06/12-20:20:42.452710,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:20:44.360593,06/12-20:20:45.839140,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:20:47.451282,06/12-20:20:47.451282,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:20:47.859151,06/12-20:20:49.317977,0,unknown
+FTP connection attempt,06/12-20:20:49.462097,06/12-20:20:49.466467,0,unknown
+SSH connection attempt,06/12-20:20:49.520535,06/12-20:20:50.287450,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:20:52.451622,06/12-20:20:52.451622,2,Attempted Denial of Service
+FTP connection attempt,06/12-20:20:52.476700,06/12-20:20:52.477589,0,unknown
+SSH connection attempt,06/12-20:20:52.567982,06/12-20:20:52.569343,0,unknown
+FTP connection attempt,06/12-20:20:52.727838,06/12-20:20:52.757558,0,unknown
+SSH connection attempt,06/12-20:20:52.757647,06/12-20:20:52.757647,0,unknown
+FTP connection attempt,06/12-20:20:52.758498,06/12-20:20:52.762360,0,unknown
+SSH connection attempt,06/12-20:20:52.763764,06/12-20:20:52.763764,0,unknown
+FTP connection attempt,06/12-20:20:52.765229,06/12-20:20:52.779440,0,unknown
+SSH connection attempt,06/12-20:20:53.179472,06/12-20:20:54.307877,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:20:14.632223,06/12-20:20:15.506506,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:20:55.056294,06/12-20:20:55.056294,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:20:16.616613,06/12-20:20:15.607991,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:20:55.252416,06/12-20:21:15.546152,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:21:16.131613,06/12-20:21:16.131613,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:21:17.792596,06/12-20:21:20.351651,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:21:21.742221,06/12-20:21:21.742221,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:21:24.716750,06/12-20:21:26.033357,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:21:26.119171,06/12-20:21:26.119171,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:21:28.223127,06/12-20:21:30.186934,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:21:31.117012,06/12-20:21:31.117012,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:21:31.756975,06/12-20:21:36.007172,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:21:36.118187,06/12-20:21:16.686664,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:21:38.861937,06/12-20:22:04.843292,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:05.276487,06/12-20:22:05.276487,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:22:07.202278,06/12-20:22:25.886135,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:05.276573,06/12-20:22:06.527582,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:22:28.722809,06/12-20:22:29.242554,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:06.588111,06/12-20:22:06.568040,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:22:29.911006,06/12-20:22:30.286576,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:06.749767,06/12-20:22:06.790048,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:22:30.444572,06/12-20:22:30.607882,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:07.072574,06/12-20:22:07.153186,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:22:32.723615,06/12-20:22:32.909529,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:33.256414,06/12-20:22:07.799711,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:22:33.655583,06/12-20:22:35.239320,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:12.120165,06/12-20:22:35.256091,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:22:38.174482,06/12-20:22:38.333268,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:13.292269,06/12-20:22:13.292269,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:22:39.883179,06/12-20:22:39.883179,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:40.252473,06/12-20:22:40.252473,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:22:43.449059,06/12-20:22:44.783273,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:08.405232,06/12-20:22:08.445554,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:22:47.165586,06/12-20:22:47.168225,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:08.991203,06/12-20:22:09.071860,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:22:47.325349,06/12-20:22:47.327832,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:09.152644,06/12-20:22:09.960500,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:22:47.512145,06/12-20:22:47.512145,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:10.041297,06/12-20:22:10.969877,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:22:47.714163,06/12-20:22:47.714163,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:10.990140,06/12-20:22:48.254787,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:22:48.405221,06/12-20:22:48.793329,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:11.010399,06/12-20:22:11.010399,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:22:48.959201,06/12-20:22:49.121260,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:11.030496,06/12-20:22:11.131528,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:22:51.706589,06/12-20:22:51.893599,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:12.039603,06/12-20:22:12.281900,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:22:53.116579,06/12-20:22:53.116579,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:13.231573,06/12-20:22:13.271924,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:22:54.693984,06/12-20:22:55.208849,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:20.886473,06/12-20:22:55.251931,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:22:55.400022,06/12-20:22:59.899673,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:23:00.250248,06/12-20:23:00.250248,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:23:00.600582,06/12-20:23:05.155132,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:23:05.251120,06/12-20:23:05.251120,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:23:05.335471,06/12-20:23:05.898563,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:26.781317,06/12-20:22:27.724757,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:23:07.805474,06/12-20:23:07.806620,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:14.463830,06/12-20:22:27.836807,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:23:07.981433,06/12-20:23:07.981433,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:27.868768,06/12-20:22:27.868768,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:23:08.142027,06/12-20:23:08.142836,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:16.658887,06/12-20:22:27.900758,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:23:08.314989,06/12-20:23:08.314989,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:27.916743,06/12-20:22:16.858646,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:23:08.527868,06/12-20:23:09.221045,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:09.253534,06/12-20:22:40.507523,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:23:11.740930,06/12-20:23:11.740930,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:40.603544,06/12-20:22:40.603544,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:23:11.874726,06/12-20:23:12.389950,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:40.635570,06/12-20:22:40.635570,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:23:12.585010,06/12-20:23:12.585010,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:40.699629,06/12-20:22:40.891425,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:23:12.762661,06/12-20:23:12.762661,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:41.339551,06/12-20:22:41.339551,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:23:12.968226,06/12-20:23:13.306008,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:22:41.339610,06/12-20:23:15.248353,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:23:15.535191,06/12-20:23:19.832565,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:23:20.247926,06/12-20:23:20.247926,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:23:22.256611,06/12-20:23:23.640794,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:23:25.248449,06/12-20:23:25.248449,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:23:26.031974,06/12-20:23:30.148904,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:23:30.246578,06/12-20:23:30.246578,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:23:30.665315,06/12-20:23:35.128989,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:23:35.246591,06/12-20:23:35.246591,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:23:35.308296,06/12-20:23:36.345292,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:23:16.407267,06/12-20:23:17.943069,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:23:38.519894,06/12-20:23:38.519904,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:23:18.006995,06/12-20:23:18.198955,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:23:38.697057,06/12-20:23:38.697057,0,unknown
+MALWARE-TOOLS slowhttptest DoS tool,06/12-20:23:18.198918,06/12-20:23:18.711016,2,Attempted Denial of Service
+SSH connection attempt,06/12-20:23:41.512305,06/12-20:28:36.832951,0,unknown
+FTP connection attempt,06/12-20:28:37.974556,06/12-20:28:38.407016,0,unknown
+SSH connection attempt,06/12-20:28:38.514554,06/12-20:33:51.667328,0,unknown
+FTP connection attempt,06/12-20:33:52.620360,06/12-20:33:53.042066,0,unknown
+SSH connection attempt,06/12-20:33:53.260923,06/12-20:40:44.831697,0,unknown
+FTP connection attempt,06/12-20:40:45.638467,06/12-20:40:46.073080,0,unknown
+SSH connection attempt,06/12-20:40:47.128757,06/12-20:54:43.879969,0,unknown
+FTP connection attempt,06/12-20:54:45.113488,06/12-20:54:45.238715,0,unknown
+SSH connection attempt,06/12-20:54:45.382146,06/12-20:54:45.382146,0,unknown
+FTP connection attempt,06/12-20:54:45.468014,06/12-20:54:45.532207,0,unknown
+SSH connection attempt,06/12-20:54:45.552064,06/12-20:55:29.352342,0,unknown
+FTP connection attempt,06/12-20:55:30.282636,06/12-20:55:30.723778,0,unknown
+SSH connection attempt,06/12-20:55:31.769485,06/12-20:56:35.810621,0,unknown
+FTP connection attempt,06/12-20:56:37.042132,06/12-20:56:37.466600,0,unknown
+ICMP connection attempt,06/12-20:56:37.758935,06/12-20:56:37.760509,0,unknown
+SSH connection attempt,06/12-20:56:38.039904,06/12-21:02:31.379589,0,unknown
+FTP connection attempt,06/12-21:02:32.987546,06/12-21:02:32.988239,0,unknown
+SSH connection attempt,06/12-21:02:33.022276,06/12-21:02:33.022276,0,unknown
+FTP connection attempt,06/12-21:02:33.111571,06/12-21:02:33.112430,0,unknown
+SSH connection attempt,06/12-21:02:33.213289,06/12-21:02:33.213289,0,unknown
+FTP connection attempt,06/12-21:02:33.361403,06/12-21:02:33.400734,0,unknown
+SSH connection attempt,06/12-21:02:33.401615,06/12-21:02:33.401615,0,unknown
+FTP connection attempt,06/12-21:02:33.402586,06/12-21:02:33.402586,0,unknown
+SSH connection attempt,06/12-21:02:33.404003,06/12-21:02:33.404003,0,unknown
+FTP connection attempt,06/12-21:02:33.405091,06/12-21:02:33.417949,0,unknown
+SSH connection attempt,06/12-21:02:34.823563,06/12-21:06:04.559941,0,unknown
+ICMP connection attempt,06/12-21:06:05.968364,06/12-21:06:05.975407,0,unknown
+SSH connection attempt,06/12-21:06:06.204427,06/12-21:11:36.770288,0,unknown
+FTP connection attempt,06/12-21:11:40.324483,06/12-21:11:40.328230,0,unknown
+SSH connection attempt,06/12-21:11:40.358853,06/12-21:11:42.975870,0,unknown
+FTP connection attempt,06/12-21:11:43.326784,06/12-21:11:43.631372,0,unknown
+SSH connection attempt,06/12-21:11:44.823747,06/12-21:20:33.277288,0,unknown
+FTP connection attempt,06/12-21:20:34.357028,06/12-21:20:34.782676,0,unknown
+SSH connection attempt,06/12-21:20:35.554397,06/12-21:23:30.765756,0,unknown
+FTP connection attempt,06/12-21:23:30.948177,06/12-21:23:31.367273,0,unknown
+SSH connection attempt,06/12-21:23:33.468207,06/12-21:28:32.710309,0,unknown
+FTP connection attempt,06/12-21:28:34.772105,06/12-21:28:35.185802,0,unknown
+SSH connection attempt,06/12-21:28:35.532608,06/12-21:33:51.241930,0,unknown
+FTP connection attempt,06/12-21:33:52.564747,06/12-21:33:52.979205,0,unknown
+SSH connection attempt,06/12-21:33:53.718575,06/12-21:40:44.635759,0,unknown
+FTP connection attempt,06/12-21:40:45.562980,06/12-21:40:45.995566,0,unknown
+SSH connection attempt,06/12-21:40:47.988568,06/12-21:54:44.607121,0,unknown
+FTP connection attempt,06/12-21:54:44.932887,06/12-21:54:45.351752,0,unknown
+SSH connection attempt,06/12-21:54:47.243663,06/12-21:55:31.640788,0,unknown
+FTP connection attempt,06/12-21:55:33.455823,06/12-21:55:33.879761,0,unknown
+SSH connection attempt,06/12-21:55:34.053932,06/12-21:56:34.510465,0,unknown
+FTP connection attempt,06/12-21:56:36.946872,06/12-21:56:37.372854,0,unknown
+SSH connection attempt,06/12-21:56:37.500313,06/12-22:01:41.502925,0,unknown
+FTP connection attempt,06/12-22:01:42.594831,06/12-22:01:43.107512,0,unknown
+SSH connection attempt,06/12-22:01:43.763430,06/12-22:04:38.490052,0,unknown
+FTP connection attempt,06/12-22:04:38.802631,06/12-22:04:39.216415,0,unknown
+SSH connection attempt,06/12-22:04:41.433841,06/12-22:12:59.108148,0,unknown
+FTP connection attempt,06/12-22:12:59.284665,06/12-22:12:59.285344,0,unknown
+SSH connection attempt,06/12-22:12:59.295314,06/12-22:12:59.296128,0,unknown
+FTP connection attempt,06/12-22:12:59.422235,06/12-22:12:59.422235,0,unknown
+SSH connection attempt,06/12-22:12:59.477657,06/12-22:12:59.477657,0,unknown
+FTP connection attempt,06/12-22:12:59.597127,06/12-22:12:59.598045,0,unknown
+SSH connection attempt,06/12-22:12:59.678714,06/12-22:12:59.678714,0,unknown
+FTP connection attempt,06/12-22:12:59.848339,06/12-22:12:59.862109,0,unknown
+SSH connection attempt,06/12-22:12:59.866439,06/12-22:12:59.866439,0,unknown
+FTP connection attempt,06/12-22:12:59.871526,06/12-22:12:59.910125,0,unknown
+SSH connection attempt,06/12-22:13:00.065344,06/12-22:13:35.702450,0,unknown
+FTP connection attempt,06/12-22:13:37.159189,06/12-22:13:37.585146,0,unknown
+SSH connection attempt,06/12-22:13:37.948718,06/12-22:20:49.294702,0,unknown
+FTP connection attempt,06/12-22:20:49.341916,06/12-22:20:49.341916,0,unknown
+SSH connection attempt,06/12-22:20:49.477705,06/12-22:20:51.328070,0,unknown
+FTP connection attempt,06/12-22:20:52.227226,06/12-22:20:52.642349,0,unknown
+SSH connection attempt,06/12-22:20:54.074340,06/12-22:28:40.574450,0,unknown
+FTP connection attempt,06/12-22:28:40.971386,06/12-22:28:41.419855,0,unknown
+SSH connection attempt,06/12-22:28:42.747591,06/12-22:33:52.055748,0,unknown
+FTP connection attempt,06/12-22:33:52.183732,06/12-22:33:52.184365,0,unknown
+SSH connection attempt,06/12-22:33:52.227269,06/12-22:33:52.227269,0,unknown
+FTP connection attempt,06/12-22:33:52.308680,06/12-22:33:52.309524,0,unknown
+SSH connection attempt,06/12-22:33:52.415717,06/12-22:33:52.415717,0,unknown
+FTP connection attempt,06/12-22:33:52.559263,06/12-22:33:52.604851,0,unknown
+SSH connection attempt,06/12-22:33:52.622582,06/12-22:38:34.785906,0,unknown
+ICMP connection attempt,06/12-22:38:34.885924,06/12-22:38:34.886205,0,unknown
+SSH connection attempt,06/12-22:38:35.488242,06/12-22:40:44.170047,0,unknown
+FTP connection attempt,06/12-22:40:45.458353,06/12-22:40:45.885617,0,unknown
+SSH connection attempt,06/12-22:40:46.722809,06/12-22:54:46.083410,0,unknown
+FTP connection attempt,06/12-22:54:47.716801,06/12-22:54:47.842571,0,unknown
+SSH connection attempt,06/12-22:54:47.879187,06/12-22:54:48.043158,0,unknown
+FTP connection attempt,06/12-22:54:48.069179,06/12-22:54:48.119374,0,unknown
+SSH connection attempt,06/12-22:54:48.228948,06/12-22:55:32.815181,0,unknown
+FTP connection attempt,06/12-22:55:33.228961,06/12-22:55:33.654957,0,unknown
+SSH connection attempt,06/12-22:55:34.488718,06/12-22:56:36.709069,0,unknown
+FTP connection attempt,06/12-22:56:36.841803,06/12-22:56:36.842551,0,unknown
+SSH connection attempt,06/12-22:56:36.869436,06/12-22:56:36.870068,0,unknown
+FTP connection attempt,06/12-22:56:36.966765,06/12-22:56:36.967820,0,unknown
+SSH connection attempt,06/12-22:56:37.045824,06/12-22:56:37.045824,0,unknown
+FTP connection attempt,06/12-22:56:37.216852,06/12-22:56:37.269682,0,unknown
+SSH connection attempt,06/12-22:56:37.288667,06/12-23:00:26.858069,0,unknown
+ICMP connection attempt,06/12-23:00:30.395601,06/12-23:00:30.395601,0,unknown
+SSH connection attempt,06/12-23:00:34.479160,06/12-23:00:35.857354,0,unknown
+ICMP connection attempt,06/12-23:00:36.021710,06/12-23:00:36.025886,0,unknown
+SSH connection attempt,06/12-23:00:36.049564,06/12-23:01:04.463800,0,unknown
+ICMP connection attempt,06/12-23:01:06.049973,06/12-23:01:06.051394,0,unknown
+SSH connection attempt,06/12-23:01:06.069088,06/12-23:05:20.766987,0,unknown
+ICMP connection attempt,06/12-23:05:50.913529,06/12-23:05:50.913529,0,unknown
+FTP connection attempt,06/12-23:11:33.383378,06/12-23:11:33.804832,0,unknown
+MALWARE-CNC Win.Dropper.Agent ransomware downloader outbound connection detected,06/12-23:18:32.211463,06/12-23:18:32.211463,1,A Network Trojan was Detected
+FTP connection attempt,06/12-23:19:41.625088,06/12-23:19:42.054434,0,unknown
+PUA-ADWARE Win.Trojan.InstantAccess variant outbound connection,06/12-23:23:28.513347,06/12-23:23:28.513347,3,Misc activity
+FTP connection attempt,06/12-23:23:42.661616,06/12-23:34:44.335366,0,unknown
+SSH connection attempt,06/12-23:39:56.783664,06/12-23:39:56.783664,0,unknown
+FTP connection attempt,06/12-23:40:45.372030,06/12-23:40:45.790188,0,unknown
+SSH connection attempt,06/12-23:43:36.468034,06/12-23:52:04.726272,0,unknown
+ICMP connection attempt,06/12-23:52:17.798933,06/12-23:52:35.915066,0,unknown
+FTP connection attempt,06/12-23:54:44.684328,06/13-01:18:33.596713,0,unknown
+ICMP connection attempt,06/13-01:20:05.229798,06/13-01:20:05.229798,0,unknown
+FTP connection attempt,06/13-01:24:00.276705,06/13-01:33:52.437209,0,unknown
+SSH connection attempt,06/13-01:39:55.290883,06/13-01:39:55.290883,0,unknown
+FTP connection attempt,06/13-01:40:47.172601,06/13-01:40:50.492549,0,unknown
+SSH connection attempt,06/13-01:40:51.294224,06/13-01:40:52.119395,0,unknown
+ICMP connection attempt,06/13-01:41:49.035281,06/13-01:41:49.035620,0,unknown
+SSH connection attempt,06/13-01:43:34.976163,06/13-01:43:34.976163,0,unknown
+FTP connection attempt,06/13-01:54:44.445344,06/13-02:15:33.478181,0,unknown
+SSH connection attempt,06/13-02:17:56.411840,06/13-02:18:06.825621,0,unknown
+FTP connection attempt,06/13-02:22:33.070705,06/13-02:40:47.680993,0,unknown
+PUA-ADWARE Win.Trojan.InstantAccess variant outbound connection,06/13-02:54:04.889394,06/13-02:54:04.889394,3,Misc activity
+FTP connection attempt,06/13-02:54:44.301639,06/13-02:56:36.803463,0,unknown
