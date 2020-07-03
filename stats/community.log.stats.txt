@@ -1,0 +1,70 @@
+===============================================================================
+Run time for packet processing was 4.649556 seconds
+Snort processed 114419 packets.
+Snort ran for 0 days 0 hours 0 minutes 4 seconds
+   Pkts/sec:        28604
+===============================================================================
+Memory usage summary:
+  Total non-mmapped bytes (arena):       782336
+  Bytes in mapped regions (hblkhd):      21590016
+  Total allocated space (uordblks):      676112
+  Total free space (fordblks):           106224
+  Topmost releasable block (keepcost):   102640
+===============================================================================
+Packet I/O Totals:
+   Received:       114419
+   Analyzed:       114419 (100.000%)
+    Dropped:            0 (  0.000%)
+   Filtered:            0 (  0.000%)
+Outstanding:            0 (  0.000%)
+   Injected:            0
+===============================================================================
+Breakdown by protocol (includes rebuilt packets):
+        Eth:       114419 (100.000%)
+       VLAN:            0 (  0.000%)
+        IP4:       114359 ( 99.948%)
+       Frag:            0 (  0.000%)
+       ICMP:          343 (  0.300%)
+        UDP:            0 (  0.000%)
+        TCP:       114016 ( 99.648%)
+        IP6:           60 (  0.052%)
+    IP6 Ext:          118 (  0.103%)
+   IP6 Opts:           58 (  0.051%)
+      Frag6:            0 (  0.000%)
+      ICMP6:           60 (  0.052%)
+       UDP6:            0 (  0.000%)
+       TCP6:            0 (  0.000%)
+     Teredo:            0 (  0.000%)
+    ICMP-IP:            0 (  0.000%)
+    IP4/IP4:            0 (  0.000%)
+    IP4/IP6:            0 (  0.000%)
+    IP6/IP4:            0 (  0.000%)
+    IP6/IP6:            0 (  0.000%)
+        GRE:            0 (  0.000%)
+    GRE Eth:            0 (  0.000%)
+   GRE VLAN:            0 (  0.000%)
+    GRE IP4:            0 (  0.000%)
+    GRE IP6:            0 (  0.000%)
+GRE IP6 Ext:            0 (  0.000%)
+   GRE PPTP:            0 (  0.000%)
+    GRE ARP:            0 (  0.000%)
+    GRE IPX:            0 (  0.000%)
+   GRE Loop:            0 (  0.000%)
+       MPLS:            0 (  0.000%)
+        ARP:            0 (  0.000%)
+        IPX:            0 (  0.000%)
+   Eth Loop:            0 (  0.000%)
+   Eth Disc:            0 (  0.000%)
+   IP4 Disc:            0 (  0.000%)
+   IP6 Disc:            0 (  0.000%)
+   TCP Disc:            0 (  0.000%)
+   UDP Disc:            0 (  0.000%)
+  ICMP Disc:            0 (  0.000%)
+All Discard:            0 (  0.000%)
+      Other:            0 (  0.000%)
+Bad Chk Sum:            0 (  0.000%)
+    Bad TTL:            0 (  0.000%)
+     S5 G 1:            0 (  0.000%)
+     S5 G 2:            0 (  0.000%)
+      Total:       114419
+===============================================================================
