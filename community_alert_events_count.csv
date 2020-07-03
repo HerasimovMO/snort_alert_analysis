@@ -1,0 +1,7 @@
+Event name,Quantity
+MALWARE-TOOLS slowhttptest DoS tool,123
+ICMP connection attempt,67
+SSH connection attempt,195
+FTP connection attempt,152
+MALWARE-CNC Win.Dropper.Agent ransomware downloader outbound connection detected,6
+PUA-ADWARE Win.Trojan.InstantAccess variant outbound connection,2

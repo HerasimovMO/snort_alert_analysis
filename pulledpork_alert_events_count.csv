@@ -1,0 +1,18 @@
+Event name,Quantity
+(http_inspect) JUNK LINE BEFORE HTTP RESPONSE HEADER,2
+(ftp_telnet) FTP command parameters were too long,218
+TCP session without 3-way handshake,3290
+(http_inspect) LONG HEADER,20
+Data sent on stream not accepting data,1
+(http_inspect) INVALID CHUNK SIZE OR CHUNK SIZE FOLLOWED BY JUNK CHARACTERS,6611
+Consecutive TCP small segments exceeding threshold,9616
+(http_inspect) JAVASCRIPT WHITESPACES EXCEEDS MAX ALLOWED,16
+(http_inspect) NO CONTENT-LENGTH OR TRANSFER-ENCODING IN HTTP RESPONSE,1516
+(spp_sdf) SDF Combination Alert,1482
+(http_inspect) SERVER CONSECUTIVE SMALL CHUNK SIZES,80
+(http_inspect) OVERSIZE REQUEST-URI DIRECTORY,1
+Reset outside window,1171
+"Bad segment, adjusted size <= 0",7
+(IMAP) Unknown IMAP4 response,3
+(http_inspect) PROTOCOL-OTHER HTTP server response before client request,1266
+(http_inspect) INVALID CONTENT-LENGTH OR CHUNK SIZE,775

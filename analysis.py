@@ -4,7 +4,7 @@ import csv
 import re
 
 alert_files = ['test', 'community_alert', 'pulledpork_alert']
-file_index = 1
+file_index = 2
 
 
 def save(file_name, content_rows):
@@ -58,41 +58,55 @@ priority = 10
 classification = ''
 
 items = process_log_file(alert_files[file_index])
-for index, item in enumerate(items):
+print(len(items))
+# for index, item in enumerate(items):
 
-    log_lines = item.split('\n')
-    alert_title = get_title_content(log_lines[0])
-    isNew = False
+#     log_lines = item.split('\n')
+#     alert_title = get_title_content(log_lines[0])
+#     isNew = False
 
-    if len(log_lines) < 3:
-        # print(log_lines + ['😂😂😂😂😂😂😂'])
-        continue
+#     if len(log_lines) < 3:
+#         # print(log_lines + ['😂😂😂😂😂😂😂'])
+#         continue
 
-    time = log_lines[2].split(' ')[0]
+#     time = log_lines[2].split(' ')[0]
 
-    if current_event == '':
-        print('created empty values')
-        current_event = alert_title
-        start_time = time
-        end_time = time
-        priority = get_priority(log_lines[1])
-        classification = get_classification_content(log_lines[1])
-        continue
+#     if current_event == '':
+#         print('created empty values')
+#         current_event = alert_title
+#         start_time = time
+#         end_time = time
+#         priority = get_priority(log_lines[1])
+#         classification = get_classification_content(log_lines[1])
+#         continue
 
-    if alert_title == current_event and index != (len(items) - 1):
-        end_time = time
-    else:
-        alert_groups.append(
-            [current_event, start_time, end_time, priority, classification])
-        current_event = alert_title
-        start_time = time
-        end_time = time
-        priority = get_priority(log_lines[1])
-        classification = get_classification_content(log_lines[1])
+#     if alert_title == current_event and index != (len(items) - 1):
+#         end_time = time
+#     else:
+#         alert_groups.append(
+#             [current_event, start_time, end_time, priority, classification])
+#         current_event = alert_title
+#         start_time = time
+#         end_time = time
+#         priority = get_priority(log_lines[1])
+#         classification = get_classification_content(log_lines[1])
 
-filtered_alerts = list(
-    filter(lambda x: 'connection attempt' not in x[0], alert_groups))
+# filtered_alerts = list(
+#     filter(lambda x: 'connection attempt' not in x[0], alert_groups))
 
-print(file_index)
-save(alert_files[file_index] + '_all_events', alert_groups)
-save(alert_files[file_index] + '_warning_events', filtered_alerts)
+# print(file_index)
+# save(alert_files[file_index] + '_all_events', alert_groups)
+# save(alert_files[file_index] + '_warning_events', filtered_alerts)
+
+
+# # -------- Count events --------
+
+# occ_event = [['Event name', "Quantity"]]
+
+# events = list(map(lambda x: x[0], alert_groups))[1:]
+# unique_events = list(set(events))
+# for unique_event in unique_events:
+#     print(events.count(unique_event))
+#     occ_event.append([unique_event, events.count(unique_event)])
+
+# save(alert_files[file_index] + '_events_count', occ_event)
